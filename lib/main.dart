@@ -1,7 +1,4 @@
-// ==============================================
-// SAFESPACE - Flutter Mental Wellness App
-// MAIN FILE - Application entry point
-// ==============================================
+
 
 import 'dart:async';
 import 'dart:math';
