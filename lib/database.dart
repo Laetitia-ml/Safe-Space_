@@ -1,6 +1,4 @@
-// ==============================================
-// SAFESPACE - DATABASE HELPER
-// ==============================================
+
 
 import 'dart:async';
 import 'package:sqflite/sqflite.dart';
